@@ -1,12 +1,7 @@
 ## 小兰的网页
 在这你甚至可以看到网页
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+123456
 # Header 1
 ## Header 2
 ### Header 3
