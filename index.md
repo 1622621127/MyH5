@@ -1,5 +1,3 @@
-## 小兰的网页
-在这你甚至可以看到网页
 <!DOCTYPE html>
 <html lang="en">
 <head>
